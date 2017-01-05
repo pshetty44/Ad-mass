@@ -1,4 +1,4 @@
-#### 1 Motivation:
+### 1 Motivation:
 AdMass is an influencer marketing platform that helps advertisers find their advocates on social media. Their technology allows advertisers to manage their relationship with advocates, facilitate advertising campaigns (influencers creating content and distributing it on their social media platforms), and report on the effectiveness of these campaigns.
 
 Understanding social media engagement (likes, comments, shares) and its relationship to content is increasingly important both to advertisers and individuals. Advertisers use these metrics to make hiring decisions when partnering with social media influencers. Influencers (those on social media with a significant following) study engagement to learn what type of content to post more or less.
