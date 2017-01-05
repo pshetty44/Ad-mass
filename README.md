@@ -20,7 +20,7 @@ However, average engagement varies significantly between different content categ
 
 
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/10040565/20235957/f462abf4-a868-11e6-9a19-f7a09547e1ff.png" width="500"/>
+  <img src="https://cloud.githubusercontent.com/assets/10040565/20235957/f462abf4-a868-11e6-9a19-f7a09547e1ff.png" width="700"/>
 </p>
 
 
@@ -28,7 +28,7 @@ However, average engagement varies significantly between different content categ
 I used Instagram API to extract key data points from an Instagram influencer.
 
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/10040565/20235954/f459c8b8-a868-11e6-9485-26c3794e89ee.png" width="500"/>
+  <img src="https://cloud.githubusercontent.com/assets/10040565/20235954/f459c8b8-a868-11e6-9485-26c3794e89ee.png" width="700"/>
 </p>
 
 
@@ -36,7 +36,7 @@ I used Instagram API to extract key data points from an Instagram influencer.
 Text analytics was done using NLP and I used K-means to get clusters.
 
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/10040565/20235953/f44d5114-a868-11e6-87e3-1297a541cb80.png" width="500"/>
+  <img src="https://cloud.githubusercontent.com/assets/10040565/20235953/f44d5114-a868-11e6-87e3-1297a541cb80.png" width="700"/>
 </p>
 
 
@@ -44,6 +44,6 @@ Text analytics was done using NLP and I used K-means to get clusters.
 The model assigns a score to each cluster which determines how close a user is to that cluster.
 
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/10040565/20235956/f460f624-a868-11e6-8862-76f5fa3d6367.png" width="500"/>
+  <img src="https://cloud.githubusercontent.com/assets/10040565/20235956/f460f624-a868-11e6-8862-76f5fa3d6367.png" width="700"/>
 </p>
 
