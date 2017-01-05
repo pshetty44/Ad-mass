@@ -1,3 +1,5 @@
+#### *Code for this project cannot be shared due to NDA with Admass Inc.*
+
 ### 1 Motivation:
 AdMass is an influencer marketing platform that helps advertisers find their advocates on social media. Their technology allows advertisers to manage their relationship with advocates, facilitate advertising campaigns (influencers creating content and distributing it on their social media platforms), and report on the effectiveness of these campaigns.
 
