@@ -7,7 +7,7 @@ Understanding social media engagement (likes, comments, shares) and its relation
 However, average engagement varies significantly between different content categories (fashion, travel, beauty, home improvement, fitness, etc.). The goal of this project is to create a classifier to automatically categorize an influencer based on their content. This will allow Admass to normalize performance metrics like engagement by the average engagement in that category. Further, it will help Admass improve searching for influencers, as they will be able to focus just on those influencers in the relevant categories for an advertiser.
 
 
-#### 2 Project Scope:
+### 2 Project Scope:
 1. Influencers may fall into one or more categories (ex. fashion and beauty)
 2. A "score" of how well the influencer fits into any category would be beneficial
 3. This analysis should be limited to Instagram
@@ -20,23 +20,23 @@ However, average engagement varies significantly between different content categ
 
 
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/10040565/20235957/f462abf4-a868-11e6-9a19-f7a09547e1ff.png" width="400"/>
+  <img src="https://cloud.githubusercontent.com/assets/10040565/20235957/f462abf4-a868-11e6-9a19-f7a09547e1ff.png" width="500"/>
 </p>
 
 
-#### 3 Data extraction:
+### 3 Data extraction:
 I used Instagram API to extract key data points from an Instagram influencer.
 
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/10040565/20235954/f459c8b8-a868-11e6-9485-26c3794e89ee.png" width="400"/>
+  <img src="https://cloud.githubusercontent.com/assets/10040565/20235954/f459c8b8-a868-11e6-9485-26c3794e89ee.png" width="500"/>
 </p>
 
 
-#### 4 The model:
+### 4 The model:
 Text analytics was done using NLP and I used K-means to get clusters.
 
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/10040565/20235953/f44d5114-a868-11e6-87e3-1297a541cb80.png" width="400"/>
+  <img src="https://cloud.githubusercontent.com/assets/10040565/20235953/f44d5114-a868-11e6-87e3-1297a541cb80.png" width="500"/>
 </p>
 
 
@@ -44,6 +44,6 @@ Text analytics was done using NLP and I used K-means to get clusters.
 The model assigns a score to each cluster which determines how close a user is to that cluster.
 
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/10040565/20235956/f460f624-a868-11e6-8862-76f5fa3d6367.png" width="400"/>
+  <img src="https://cloud.githubusercontent.com/assets/10040565/20235956/f460f624-a868-11e6-8862-76f5fa3d6367.png" width="500"/>
 </p>
 
